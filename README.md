@@ -1,4 +1,4 @@
-# Thank-You-Somebody
+# Mario News Generator
 
 Creates a headline with the formula:
 THANK YOU MARIO BUT OUR (PERSON) IS IN ANOTHER (LOCATION)
